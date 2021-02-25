@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1614267095571,
+  "timestamp": 1614267947241,
   "index": "/TicTacToe/index.html",
   "assetGroups": [
     {
@@ -29,6 +29,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/TicTacToe/assets/2395608.png",
         "/TicTacToe/assets/icons/icon-128x128.png",
         "/TicTacToe/assets/icons/icon-144x144.png",
         "/TicTacToe/assets/icons/icon-152x152.png",
@@ -43,6 +44,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/TicTacToe/assets/2395608.png": "3d01d8e60938a6832f554bd95629ff6c843dbb2c",
     "/TicTacToe/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/TicTacToe/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/TicTacToe/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -54,7 +56,7 @@
     "/TicTacToe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "/TicTacToe/index.html": "a72e9de27c52fae0019703efb30ba7cb2f43e1ff",
     "/TicTacToe/main.794bd310cd6ba24458d2.js": "bebc3d33c05f89fa1801bb36138b69ae5ee8239b",
-    "/TicTacToe/manifest.webmanifest": "3dc0bbcd860b44bae22c637a52e6850ff35400ac",
+    "/TicTacToe/manifest.webmanifest": "9ebd8c014fb8e58d53ad065e908d12ed6f016f7f",
     "/TicTacToe/polyfills.00096ed7d93ed26ee6df.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
     "/TicTacToe/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/TicTacToe/styles.2234b3a590cbc0f5f6dd.css": "acbe00ff595d4af611c9b72795f5179d66e47589"
